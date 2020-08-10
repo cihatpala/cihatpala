@@ -9,4 +9,4 @@ Hi there 👋, My name is Cihat.  <br>
 Karadeniz Technical University, <br> Of Technology of Faculty | Software Engineer
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=cihatpala&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cihatpala&show_icons=true&theme=merko)

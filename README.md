@@ -1,7 +1,7 @@
-
+<img width="200" align="right" src="https://www.illusiongroups.com/blog/wp-content/uploads/2018/09/3.gif">
 <img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
-<img width="250" align="right" src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif">
-<img width="100" align="right" src="https://www.illusiongroups.com/blog/wp-content/uploads/2018/09/3.gif">
+<img width="200" align="right" src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif">
+
 
 
 # Cihat PALA

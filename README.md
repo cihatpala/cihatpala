@@ -1,4 +1,6 @@
-<a target="_blank" href="https://lakshmandev.netlify.app/"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+
+<img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+<img width="300" align="right" src="https://www.illusiongroups.com/blog/wp-content/uploads/2018/09/3.gif">
 
 # Cihat PALA
 

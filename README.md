@@ -1,7 +1,5 @@
 
-<img width="200" align="right" src="https://cdn.wallpapersafari.com/21/12/1Uzqfx.gif">
-
-
+<img width="400" align="right" src="https://cdn.wallpapersafari.com/21/12/1Uzqfx.gif">
 
 # Cihat PALA
 
@@ -13,3 +11,4 @@ Karadeniz Technical University, <br> Of Technology of Faculty | Software Enginee
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cihatpala&show_icons=true&theme=merko)
+

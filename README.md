@@ -1,7 +1,8 @@
 <img width="400" align="right" src="https://cdn.wallpapersafari.com/21/12/1Uzqfx.gif">
 
 # 👋 Hi, I'm Cihat PALA!
-
+![Kotlin vs Java](https://img.shields.io/badge/Kotlin-70%25-%230095D5?style=flat&logo=kotlin&logoColor=white) 
+![Java vs Kotlin](https://img.shields.io/badge/Java-30%25-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/cihatpala/)
 [![GitHub Followers](https://img.shields.io/github/followers/cihatpala?style=social)](https://github.com/cihatpala)
 [![GitHub Stars](https://img.shields.io/github/stars/cihatpala?style=social)](https://github.com/cihatpala?tab=stars)
